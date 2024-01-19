@@ -22,10 +22,7 @@ Other Skills:
 - 💞️ I’m looking to collaborate on any projects related to the IT field
 
 ## Contact Me
-- 📫 Reach me at **@AbdoAnss** on platform X or on linkedIn.
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ItsAbdoAnss/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdoanss/)
+- 📫 Reach me at **@AbdoAnss** on linkedIn:  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdoanss/)
 
 Looking forward to collaborating and learning with you!
 
