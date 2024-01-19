@@ -2,16 +2,30 @@
 
 I'm a Computer Science student who is passionate about CyberSecurity and Data science. I'm always eager to learn more and expand my knowledge in these fields.
 
+Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,latex,java,bash,figma,nodejs,github,git,c,cpp,gcp,aws)](https://github.com/AbdoAnss/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,express)](https://github.com/AbdoAnss/)
+
+Cloud & Data Engineering Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,bash,git,docker,k8s)](https://github.com/AbdoAnss/)
+
+Other Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=figma,latex)](https://github.com/AbdoAnss/)
+
+
 
 ## About Me
 - 👀 I’m interested in **CyberSecurity & Data science**
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently enrolled in **Computer Science** Engineering degree @ **INTP**
 - 💞️ I’m looking to collaborate on any projects related to the IT field
 
 ## Contact Me
 - 📫 Reach me at **@AbdoAnss** on platform X or on linkedIn.
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ItsAbdoAnss/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdoanss/)
 
 Looking forward to collaborating and learning with you!
 
