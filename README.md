@@ -18,7 +18,7 @@ Other Skills:
 
 ## About Me
 - 👀 I’m interested in **CyberSecurity & Data science**
-- 🌱 I’m currently enrolled in **Computer Science** Engineering degree @ **INTP**
+- 🌱 I’m currently enrolled in **Computer Science** Engineering degree @ **INPT**
 - 💞️ I’m looking to collaborate on any projects related to the IT field
 
 ## Contact Me
