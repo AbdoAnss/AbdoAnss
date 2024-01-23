@@ -2,13 +2,13 @@
 
 I'm a Computer Science student who is passionate about CyberSecurity and Data science. I'm always eager to learn more and expand my knowledge in these fields.
 
-Programming Languages:
+Programming Languages & web development skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,express)](https://github.com/AbdoAnss/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,mysql)](https://github.com/AbdoAnss/)
 
 Cloud & Data Engineering Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,bash,git,docker,k8s)](https://github.com/AbdoAnss/)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,bash,git,docker,k8s,terraform)](https://github.com/AbdoAnss/)
 
 Other Skills:
 
