@@ -17,8 +17,8 @@ Other Skills:
 
 
 ## About Me
-- 👀 I’m interested in ** Data science & Data engineering**
-- 🌱 I’m currently enrolled in **Computer Science** Engineering degree @ **INPT**, working in a project called **NLP for Network Analysis**.
+- 👀 I’m interested in **Data science & Data engineering**
+- 🌱 I’m currently enrolled in **Computer Science** Engineering degree @**INPT**, working in a project called **NLP & ML for Network Analysis**.
 - 💞️ I’m looking to collaborate on any projects related to the IT field
 
 ## Contact Me
