@@ -1,6 +1,6 @@
 # Hi there, I'm Abdessamad 👋
 
-I'm a Computer Science student who is passionate about CyberSecurity and Data science. I'm always eager to learn more and expand my knowledge in these fields.
+I'm a Computer Science student who is passionate about ML and Data science. I'm always eager to learn more and expand my knowledge in these fields.
 
 Programming Languages & web development skills:
 
