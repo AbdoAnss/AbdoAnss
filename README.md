@@ -4,15 +4,15 @@ I'm a Computer Science student who is passionate about ML and Data science. I'm 
 
 Programming Languages & web development skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,mysql)](https://github.com/AbdoAnss/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,mysql)](#)
 
-Cloud & Data Engineering Skills:
+Data Engineering related Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,bash,git,docker,k8s,terraform)](https://github.com/AbdoAnss/)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,bash,git,docker,k8s,terraform)](#)
 
 Other Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,latex)](https://github.com/AbdoAnss/)
+[![My Skills](https://skillicons.dev/icons?i=figma,latex)](#)
 
 
 
