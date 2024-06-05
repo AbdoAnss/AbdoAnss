@@ -1,31 +1,17 @@
 # Hi there, I'm Abdessamad 👋
 
-I'm a Computer Science student who is passionate about ML and Data science. I'm always eager to learn more and expand my knowledge in these fields.
-
-Programming Languages & web development skills:
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,mysql)](#)
-
-Data Engineering related Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,bash,git,docker,k8s,terraform)](#)
-
-Other Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=figma,latex)](#)
-
+I'm a Computer Science student at INPT. Currently learning about Rust lang.
 
 
 ## About Me
-- 👀 I’m interested in **Data science & Data engineering**
-- 🌱 I’m currently enrolled in **Computer Science** Engineering degree @**INPT**, working in a project called **NLP & ML for Network Analysis**.
-- 💞️ I’m looking to collaborate on any projects related to the IT field
+- 👀 I’m interested in **Computer Science & Engineering**
+- 🌱 I’m currently enrolled in **Computer Science** Engineering degree @**INPT**.
+- 💞️ I’m looking to collaborate on any interseting projects.
 
 ## Contact Me
-- 📫 Reach me at **@AbdoAnss** on linkedIn:
--   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdoanss/)
+- 📫 Reach me at **@AbdoAnss** on linkedIn: [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdoanss/)
 
-Looking forward to collaborating and learning with you!
+✨ALPA-S✨
 
 
 <!---
