@@ -1,6 +1,6 @@
 # Hi there, I'm Abdessamad 👋 
 
-[![](https://visitcount.itsvg.in/api?id=abdoanss&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AbdoAnss&label=Profile%20Views&color=10&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science Engineering student at **INPT**
