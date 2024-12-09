@@ -28,7 +28,10 @@
 
 <div align="center">
   <a href="https://github.com/AbdoAnss/advent-of-code-24">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoAnss&repo=advent-of-code-24&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoAnss&repo=advent-of-code-24&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/AbdoAnss/go-fantasy-pl">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoAnss&repo=go-fantasy-pl&theme=material-palenight" />
   </a>
 </div>
 
