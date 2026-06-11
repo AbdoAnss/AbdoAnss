@@ -2,8 +2,10 @@
 
 # Hey, I'm Abdessamad 👋
 
-**CS Engineering student** · INPT Rabat 🇲🇦 & UBO Brest 🇫🇷  
-Building things with Go, Rust, and whatever looks interesting next.
+**CS Engineering student** · INPT Rabat 🇲🇦 & UBO Brest 🇫🇷
+
+Currently interning at **SAP France** — building on Java, Cloud Foundry & SAP BTP.  
+Outside of that, writing Go and Rust for fun and for learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoanss/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://abdoanss.github.io)
@@ -15,7 +17,11 @@ Building things with Go, Rust, and whatever looks interesting next.
 
 ## About
 
-I'm a software engineering student currently looking for an internship. I like writing clean, well-tested code — I finished Advent of Code 2025 entirely in Go using TDD, which was a good way to learn by doing. I hold an **Oracle Certified Professional Java SE 11** certification and I'm actively exploring systems programming through Go and Rust.
+Software engineering student with a focus on backend systems and clean, well-tested code.
+
+I finished **Advent of Code 2024 entirely in Go using TDD** — a deliberate way to learn the language by solving real problems under constraints. I hold an **Oracle Certified Professional Java SE 11** certification and I'm actively deepening my knowledge of systems programming through Go and Rust.
+
+At SAP France I work with **Java, Cloud Foundry, and SAP BTP** — enterprise-scale distributed systems in a production environment.
 
 ---
 
@@ -38,6 +44,7 @@ I'm a software engineering student currently looking for an internship. I like w
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-%230C9ED5.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white)
 
 **Databases**
 
@@ -48,7 +55,7 @@ I'm a software engineering student currently looking for an internship. I like w
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 <div align="center">
   <a href="https://github.com/AbdoAnss/advent-of-code-24">
@@ -73,13 +80,13 @@ I'm a software engineering student currently looking for an internship. I like w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbdoAnss&theme=shadow_blue&hide_border=true" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdoAnss&show_icons=true&theme=shadow_blue&hide_border=true&rank_icon=github" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoAnss&layout=compact&theme=shadow_blue&hide_border=true" height="165" />
 </div>
 
 ---
 
 <div align="center">
-  <b>🔍 Open to internship opportunities</b> · Feel free to reach out!
+  <b>🔍 Open to opportunities starting September 2026</b> · Feel free to reach out!
 </div>
